@@ -179,3 +179,7 @@ larger venue if access permits — nothing else changes.
 
 The negative direction of the result is robust; only the precise figures depend
 on these choices.
+
+## Reference
+Johnny Tung (WallStreetQuant), "Statistical Arbitrage in Cryptocurrencies,"
+Medium. https://medium.com/@johnnya12399/statistical-arbitrage-in-cryptocurrencies-part-1-7ed626ed9629
